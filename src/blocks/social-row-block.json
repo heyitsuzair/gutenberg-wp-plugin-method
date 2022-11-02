@@ -1,0 +1,16 @@
+{
+	"name": "create-block/uzair-giveaway-social-row",
+	"version": "1.0.0",
+	"title": "Social Row",
+	"category": "custom-uzair-category",
+	"icon": "smiley",
+    "parents": ["create-block/uzair-giveaway"] ,
+	"description": "Social Media Row Block By MUHAMMAD UZAIR",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "uzair-giveaway",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
